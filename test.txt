@@ -1,0 +1,18 @@
+{
+  "protocol": "vless",
+  "settings": {
+    "id": "5e6f8c44-4416-4db6-a5b3-c7d6370d7978"
+  },
+  "streamSettings": {
+    "network": "tcp",
+    "security": "reality",
+    "realitySettings": {
+      "publicKey": "-hhiiuKeiNokeNf2cOpiA--lBdsy9InIhFZgtaQjQ2w",
+      "serverName": "botapi.max.ru",
+      "shortId": "ad190bd036",
+      "spx": "/",
+      "fingerprint": "firefox"
+    }
+  },
+  "remark": "TankGuy"
+}
